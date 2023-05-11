@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <rss version="2.0">
   <channel>
     <title>Aprende CSS3</title>
     <link>https://keen-babka-5f209d.netlify.app/</link>
     <description>Trabajo realizado con la intencion de crear una feed RSS</description>
-  </channel>
-
-  <item>
-    <title>esta es mi primera fedd!</title>
-  </item>
   <item>
     <title>Repositorio</title>
     <link>https://github.com/WicasZ/TrabajoRss.git</link>
+    <description>Codigo fuente donde se almacena</description>
   </item>
+  </channel>
 </rss>	
